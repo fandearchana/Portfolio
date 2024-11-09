@@ -1,0 +1,105 @@
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 20px;
+}
+body{
+    margin-top: 20px; 
+    color: white;
+}         
+.left{
+    width: 20vw;
+    height:93vh;
+    padding-top: 15vh;               
+}
+.left .box{
+    margin: 10px;
+}
+.left img{
+    width: 10vw;
+    height:20vh;
+    border-radius: 100%;
+}
+.left a{
+    color: white;
+    font-size: 18px;
+    
+}
+.right{
+    padding-top: 20vh;
+    text-align: center;
+ }
+ .right h1{
+    margin: 10px;
+    font-size: 40px;
+}
+.right h1 span{
+    font-weight: 800;
+}
+.right p{
+    font-size:20px;
+    font-weight: lighter;
+    font-style: oblique;
+ }
+.right button{
+    width:12vw;
+    height:6vh;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.containerheight{
+    height:93vh;
+}
+.containerheight1{
+    height:63vh;
+}
+.headingBox{
+    margin-top:50px;
+    margin-bottom: 40px;
+    text-align: center;  
+    color: white;     
+}
+.aboutMeBox{
+    font-size: 0.8rem;
+}
+.containerheight .box1{
+    margin-bottom: 20px;
+}
+.containerheight .box2{            
+    margin: 10px 10px;
+    font-size: 0.5rem;
+}
+.containerheight h5{
+    text-align: center;
+    color: white;
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+.containerheight hr{
+    margin-bottom: 30px;
+}
+.containerheight1 .box3{
+    font-size:0.8rem;
+}
+.temphr{
+    margin-bottom: 5px;
+}
+.myWork ol{
+    margin-left: 3vw;
+    font-size: 1rem;    
+}
+.myWork ol li a{    
+    color:#fff;
+}
+/* .flex{
+    display: flex;
+    color: white;
+    list-style: none;
+    background-color: aquamarine;
+} */
+/* transition start here */
